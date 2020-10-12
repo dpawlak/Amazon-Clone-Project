@@ -1,15 +1,7 @@
 export const initialState = {
-    basket: [
-        {
-        id:"123123423",
-        title:"Product One, The best book there ever was",
-        price:12.99,
-        rating:5,
-        image:"https://images.unsplash.com/photo-1578021046026-483fa99ffad2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
-    },
-],
+    basket: [],
     user: null,
-};
+    };
 
 
 export const getBasketTotal = (basket) => 

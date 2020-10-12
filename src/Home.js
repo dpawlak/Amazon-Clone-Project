@@ -13,52 +13,54 @@ function Home() {
             />
             <div className="home__row">
                 <Product
-                    id="3254354345"
+                    id="100000"
                     title="New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB) - Silver (4th Generation)"
                     price={598.99}
                     rating={4}
                     image="https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg"
                 />
                 <Product
-                    id="123123423"
-                    title="Product One, The best book there ever was"
-                    price={12.99}
+                    id="120000"
+                    title="New Apple MacBook Pro (13-inch, 8GB RAM, 256GB SSD Storage, Magic Keyboard) - Space Gray"
+                    price={1249.00}
                     rating={5}
-                    image={"https://images.unsplash.com/photo-1578021046026-483fa99ffad2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=8https://m.media-amazon.com/images/I/71k3fJh5EwL._AC_UY218_.jpg"}
+                    image={"https://images-na.ssl-images-amazon.com/images/I/71HI3U9ZwZL._AC_SL1500_.jpg"}
                 />
             </div>
             
             <div className="home__row">
+                
                 <Product
-                    id="123123423"
-                    title="Product One, The best book there ever was"
-                    price={12.99}
+                    id="13000"
+                    title="Python Crash Course, 2nd Edition"
+                    price={21.99}
                     rating={5}
-                    image={"https://images.unsplash.com/photo-1578021046026-483fa99ffad2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"}
+                    image={"https://images-na.ssl-images-amazon.com/images/I/510-dE3N1PL._SX376_BO1,204,203,200_.jpg"}
                 />
                 <Product
-                    id="123123423"
-                    title="Product One, The best book there ever was"
-                    price={12.99}
-                    rating={5}
-                    image={"https://images.unsplash.com/photo-1578021046026-483fa99ffad2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"}
+                    id="140000"
+                    title="A Game of Thrones: Bookset 1-5"
+                    price={39.99}
+                    rating={4}
+                    image={"https://m.media-amazon.com/images/I/91HSa7sG8tL._AC_UY218_.jpg"}
                 />
-                <Product
-                    id="123123423"
-                    title="Product One, The best book there ever was"
-                    price={12.99}
-                    rating={5}
-                    image={"https://images.unsplash.com/photo-1578021046026-483fa99ffad2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"}
+
+<Product
+                    id="150000"
+                    title="Kindle Paperwhite – with 2x the Storage"
+                    price={129.99}
+                    rating={3}
+                    image={"https://m.media-amazon.com/images/I/61eAq6gg-XL._AC_UY218_.jpg"}
                 />
             </div>
 
             <div className="home__row">
                 <Product
-                    id="123123423"
-                    title="Product One, The best book there ever was"
-                    price={12.99}
-                    rating={5}
-                    image={"https://images.unsplash.com/photo-1578021046026-483fa99ffad2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"}
+                    id="160000"
+                    title="Razer Huntsman Gaming Keyboard: Fastest Keyboard Switches Ever - Clicky Optical Switches - Customizable Chroma RGB Lighting - Programmable Macro Functionality - Classic Black"
+                    price={89.99}
+                    rating={4}
+                    image={"https://images-na.ssl-images-amazon.com/images/I/71FJGmeJ2GL._AC_SL1500_.jpg"}
                 />
             </div>
 
