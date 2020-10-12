@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dpawlak/Amazon-Clone-Project/static/css/main.21d84e04.chunk.css",
+    "main.js": "/dpawlak/Amazon-Clone-Project/static/js/main.03d7cd59.chunk.js",
+    "main.js.map": "/dpawlak/Amazon-Clone-Project/static/js/main.03d7cd59.chunk.js.map",
+    "runtime-main.js": "/dpawlak/Amazon-Clone-Project/static/js/runtime-main.8eb778d9.js",
+    "runtime-main.js.map": "/dpawlak/Amazon-Clone-Project/static/js/runtime-main.8eb778d9.js.map",
+    "static/js/2.5771220a.chunk.js": "/dpawlak/Amazon-Clone-Project/static/js/2.5771220a.chunk.js",
+    "static/js/2.5771220a.chunk.js.map": "/dpawlak/Amazon-Clone-Project/static/js/2.5771220a.chunk.js.map",
+    "index.html": "/dpawlak/Amazon-Clone-Project/index.html",
+    "precache-manifest.f93f72d88ed571ad2bd7a36364bd098f.js": "/dpawlak/Amazon-Clone-Project/precache-manifest.f93f72d88ed571ad2bd7a36364bd098f.js",
+    "service-worker.js": "/dpawlak/Amazon-Clone-Project/service-worker.js",
+    "static/css/main.21d84e04.chunk.css.map": "/dpawlak/Amazon-Clone-Project/static/css/main.21d84e04.chunk.css.map",
+    "static/js/2.5771220a.chunk.js.LICENSE.txt": "/dpawlak/Amazon-Clone-Project/static/js/2.5771220a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8eb778d9.js",
+    "static/js/2.5771220a.chunk.js",
+    "static/css/main.21d84e04.chunk.css",
+    "static/js/main.03d7cd59.chunk.js"
+  ]
+}
